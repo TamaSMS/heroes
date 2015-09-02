@@ -1,6 +1,6 @@
 # Site de Heroes
 
-## Homepage contendo:
+## Homepage contendo
 - Links de Heroes
 - Links de battlegrounds
 - Icone do site
