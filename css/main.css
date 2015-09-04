@@ -1,0 +1,65 @@
+/* Basic elements */
+
+body {
+  background-color: #0d0119;
+  color: #8eb1bc;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+a:link {
+  color: #fff;
+}
+
+a:visited {
+  color: yellow;
+}
+
+strong {
+  color: #fff;
+}
+
+
+/* Generic elements */
+
+.styleless-list {
+  list-style: none;
+  padding: 0;
+}
+
+.page-section {
+  padding: 40px 0;
+}
+
+
+/* Site header */
+
+#site-header {
+  background-color: #482b56;
+}
+
+#logo,
+#site-menu{
+  display: inline;
+}
+
+#logo img {
+  height: 50px;
+}
+
+
+/* Site contents */
+
+#hero-picture {
+  float: left;
+  margin: 20px 40px 20px 20px;
+}
+
+#hero-skills {
+  clear: both;
+}
+
+.skill-icon {
+  border: 2px solid #fff;
+  border-radius: 10px;
+  width: 40px;
+}
